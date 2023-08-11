@@ -1,0 +1,113 @@
+.mr-3 {
+    margin-left: 45%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#logo_topo {
+    background-color: #da2c2c;
+}
+
+nav ul li a {
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+}
+
+#icone_conta {
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+#icone_conta:hover {
+    background-color: #f83434;
+}
+
+.card-text{
+    font-weight: bold;
+    font-size: large;
+}
+
+
+.btn-outline-primary{
+    float: right;
+    margin-top: 30px;
+    border: none;
+    background-color: #f85347;
+    color: #fff;
+    font-weight: bold;
+}
+
+.btn-outline-primary:hover{
+    background-color: #db0c05e8;
+    color: #fff;
+}
+
+.bandeiras {
+    margin-top: -170px;
+}
+
+input[type=reset], input[type=submit]{
+    border: none;
+    border-radius: 5px;
+    margin: 20px 10px 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+
+}
+
+input[type=reset]:hover, input[type=submit]:hover {
+    background-color: #fa382ae8;
+    color: #fff;
+}
+
+#carrinho {
+    margin: 20px 10px 20px 5px;
+
+}
+
+h4{
+    margin-left: 10px;
+
+}
+
+#itens{
+    margin: 5px;
+    width: 500px;
+    height: 200px;
+    background-color: #c4c4c4;
+    border-radius: 5px;
+}
+
+#total {
+    margin: 5px;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(252, 49, 49);
+    border-radius: 5px;
+}
+
+.inscreva-se input{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.login input{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.submit{
+    width: 200px;
+    border-radius: 5px;
+}
+
+.text-center [name="nome"] [name=sobrenome] {
+
+    margin-right: 400px;
+  
+}
